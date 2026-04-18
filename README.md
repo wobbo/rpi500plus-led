@@ -20,24 +20,28 @@ The application allows:
 
 Run the official installer:
 
+```bash
 wget -O install-rpi500plus-led.sh https://wobbo.org/install/2026-04-18/install-rpi500plus-led.sh
 chmod +x install-rpi500plus-led.sh
 sudo ./install-rpi500plus-led.sh
+```
 
 The installer automatically:
 
-• installs dependencies
-• installs the keyboard backend when needed
-• applies required Ubuntu HID permissions
+• installs dependencies  
+• installs the keyboard backend when needed  
+• applies required Ubuntu HID permissions  
 • installs desktop launcher integration
 
 ---
 
 ## Remove
 
+```bash
 wget -O remove-rpi500plus-led.sh https://wobbo.org/install/2026-04-18/remove-rpi500plus-led.sh
 chmod +x remove-rpi500plus-led.sh
 sudo ./remove-rpi500plus-led.sh
+```
 
 ---
 
@@ -45,7 +49,9 @@ sudo ./remove-rpi500plus-led.sh
 
 Raspberry Pi OS:
 
+```bash
 sudo apt install rpi-keyboard-config
+```
 
 Ubuntu:
 
@@ -57,11 +63,15 @@ Handled automatically by the installer.
 
 Stored in:
 
+```
 ~/.config/rpi500plus-led.json
+```
 
 Restore last LED state:
 
+```bash
 rpi500plus-led --restore
+```
 
 ---
 
