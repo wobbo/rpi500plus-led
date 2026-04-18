@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 2026-04-17
+# 2026-04-18
 # Ernst Lanser
 # https://forums.raspberrypi.com/
 # https://github.com/wobbo/rpi500plus-led/
@@ -185,7 +185,7 @@ fi
 ###########################################
 printf "\n    Installing RPi 500+ LED application...\n\n"
 
-URL_PY="https://wobbo.org/install/2026-04-17/rpi500plus-led.py"
+URL_PY="https://wobbo.org/install/2026-04-18/rpi500plus-led.py"
 
 TARGET_BIN="/usr/local/bin/rpi500plus-led"
 TARGET_DESKTOP="/usr/share/applications/rpi500plus-led.desktop"
