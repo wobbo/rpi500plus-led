@@ -9,7 +9,12 @@
 #
 # Removes the GTK4 RGB keyboard LED controller for
 # the Raspberry Pi 500+ keyboard.
-#
+
+# Remove: 
+# wget -O remove-rpi500plus-led.sh https://wobbo.org/install/2026-04-18/remove-rpi500plus-led.sh 
+# chmod +x remove-rpi500plus-led.sh 
+# sudo ./remove-rpi500plus-led.sh
+
 # This script removes:
 #   • /usr/local/bin/rpi500plus-led
 #   • desktop launcher
@@ -156,7 +161,7 @@ fi
 ###########################################
 printf "\n    Installing RPi 500+ LED application...\n\n"
 
-URL_PY="https://wobbo.org/install/2026-04-17/rpi500plus-led.py"
+URL_PY="https://wobbo.org/install/2026-04-18/rpi500plus-led.py"
 
 TARGET_BIN="/usr/local/bin/rpi500plus-led"
 TARGET_DESKTOP="/usr/share/applications/rpi500plus-led.desktop"
