@@ -35,6 +35,10 @@ The installer automatically:
 • applies required Ubuntu HID permissions  
 • installs desktop launcher integration
 
+![Beschrijving van de afbeelding](https://wobbo.org/screenshots/2026-04-17_Keyboard_led_live_mini.webp)
+
+
+
 ---
 
 ## Remove
@@ -45,7 +49,6 @@ chmod +x remove-rpi500plus-led.sh
 sudo ./remove-rpi500plus-led.sh
 ```
 
-![Beschrijving van de afbeelding](https://wobbo.org/screenshots/2026-04-17_Keyboard_led_live_mini.webp)
 
 
 
