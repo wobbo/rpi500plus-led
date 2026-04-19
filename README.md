@@ -14,6 +14,8 @@ The application allows:
 • turning LEDs on/off
 • restoring LED settings automatically at login
 
+![Keyboard LED App](https://wobbo.org/screenshots/2026-04-17_Keyboard_led_app_mini.webp)
+
 ---
 
 ## Install (recommended)
@@ -42,6 +44,10 @@ wget -O remove-rpi500plus-led.sh https://wobbo.org/install/2026-04-18/remove-rpi
 chmod +x remove-rpi500plus-led.sh
 sudo ./remove-rpi500plus-led.sh
 ```
+
+![Beschrijving van de afbeelding](https://wobbo.org/screenshots/2026-04-17_Keyboard_led_live_mini.webp)
+
+
 
 ---
 
