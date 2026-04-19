@@ -1,6 +1,7 @@
 # RPi 500+ LED Controller
 
-GTK4 application to control the RGB keyboard lighting on the Raspberry Pi 500+ keyboard.
+GTK4 application to control the RGB keyboard lighting on the Raspberry Pi 500+ keyboard. 
+https://forums.raspberrypi.com/viewtopic.php?t=397680
 
 Supports:
 
