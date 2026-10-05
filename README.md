@@ -15,6 +15,12 @@ The application allows:
 • turning LEDs on/off
 • restoring LED settings automatically at login
 
+Download v16.4: 
+
+[<img height="16" alt="RPi 500+ LED" src="https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led.png" />](https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led_4.32-3_all.deb)  [v4.32/rpi500plus-led_4.32-3_all.deb](https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led_4.32-3_all.deb) 
+
+
+
 ![Keyboard LED App](https://wobbo.org/screenshots/2026-04-17_Keyboard_led_app_mini.webp)
 
 ---
