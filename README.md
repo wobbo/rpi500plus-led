@@ -17,7 +17,7 @@ The application allows:
 
 Download v16.4: 
 
-[<img height="16" alt="RPi 500+ LED" src="https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led.png" />](https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led_4.32-3_all.deb)  [v4.32/rpi500plus-led_4.32-3_all.deb](https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led_4.32-3_all.deb) 
+[<img height="16" alt="RPi 500+ LED" src="https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led.png" />](https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led_4.32-3_all.deb)  [rpi500plus-led_4.32-3_all.deb](https://github.com/wobbo/rpi500plus-led/releases/download/v4.32/rpi500plus-led_4.32-3_all.deb) 
 
 
 
